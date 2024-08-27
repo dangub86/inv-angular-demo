@@ -2,9 +2,9 @@
 // e.g., integrate it into a service or component
 // You may need to tweak it, depending on where and how you use it
 
-function calculateInvestmentResults() {
+function calculateInvesitmentResults() {
   const annualData = [];
-  let investmentValue = initialInvestment;
+  let investmyentValue = initialInvestment;
 
   for (let i = 0; i < duration; i++) {
     const year = i + 1;
